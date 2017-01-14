@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned? 
+  * What has been easy? 
+  * What has been difficult? 
+  * How have you used the problem solving strategies from the first project to overcome challenges so far? 
+
+---
+
+Your response goes here!
+
+Question 1
+	I learned how to add a title to a link, so you can see the link address when you mouse over. I noticed that feature in the PDF, so added to html document just in case. Also, I used the delete element over the strike element because according to MDN it's obsolete in HTML5. Moreover, I decided to use the emphasis and bold elements over their predecessors for my HTML5 document.
+
+Question 2 
+
+	The repetitiveness of tags allowed me to copy and paste. The previous quizzes allowed me to quickly create links and the image. 
+
+Question 3
+
+	The difficult part was making sure to close tags, so I started adding the start/close tags at same time. Also, remembering to add all the quotation marks and angle brackets.
+
+Question 4
+
+	I utilized a Google and MDN to observe difference between HTML5 (version used) versus HTML4 elements. The links in the PDF didn't change colors once you clicked or hover over, so I wanted the same features for my HTML5 document. I added link, visited, hover, and active attributes with a blue value. Also, I remembered the importance of reviewing the code line by line to catch simple errors. 
